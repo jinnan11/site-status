@@ -30,7 +30,7 @@ const Footer = () => {
         </p>
         <p>
           基于&nbsp;
-          <CustomLink to="https://dashboard.uptimerobot.com/" text="UptimeRobot" />
+          <CustomLink to="https://dashboard.uptimerobot.com/monitors" text="UptimeRobot" />
           &nbsp;接口&nbsp;|&nbsp;检测频率 5 分钟
         </p>
         <p>
