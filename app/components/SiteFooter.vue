@@ -52,7 +52,7 @@ const { siteIcp, version } = configPublic;
 const linkData = {
   github: "https://github.com/jinnan11/site-status",
   home: "https://jinnan.top",
-  email: "mailto:3152598423@qq.com",
+  email: "3152598423@qq.com",
 };
 </script>
 
